@@ -2,6 +2,7 @@
   "name": "package.json",
   "version": "1.0.0",
   "description": "0x00-ES6_basic",
+  "type": "module",
   "main": "index.js",
   "dependencies": {
     "babel-jest": "^29.7.0",
@@ -12,6 +13,7 @@
     "eslint-config-google": "^0.14.0"
   },
   "scripts": {
+    "dev": "nodemon 0-main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
