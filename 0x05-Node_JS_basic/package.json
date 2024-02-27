@@ -1,0 +1,17 @@
+{
+  "name": "0x05-node_js_basic",
+  "version": "1.0.0",
+  "description": "0x05-Node_JS_basic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.23.9",
+    "@babel/core": "^7.23.9",
+    "@babel/preset-env": "^7.23.9",
+    "eslint": "^8.57.0"
+  }
+}
